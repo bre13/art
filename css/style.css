@@ -1,0 +1,43 @@
+h1{
+  font-size: 70px;
+}
+h2{
+  font-size: 50px;
+}
+.copyallign{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+
+.Headersize{
+  font-size:1000%;
+  padding-top: 150px;
+  padding-bottom: 150px;
+  text-align: center;
+}
+.box-one{
+  text-align: left;
+  right:200px;
+  width: 400px;
+  height:150px;
+  margin-left: 50px;
+}
+.box-two{
+  position: absolute;
+  right: 90px;
+  width: 200px;
+  height: 100px;
+  bottom: 580px;
+  margin-left: 90px;
+  margin-right: 150px;
+  font-size: 60px;
+  text-align: center;
+}
+.box-three{
+  right: 200px;
+  width: 1050px;
+  bottom: 580px;
+  margin-right: 50px;
+}
